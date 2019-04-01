@@ -4,8 +4,4 @@ for test insert line again;
 hi world;
 Creating a new branch is quick AND simple.
 more and more
-<<<<<<< HEAD
 more than another
-=======
-more than other
->>>>>>> 77264c037f45836cf01fb18b149bbdbea6a36093
